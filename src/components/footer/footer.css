@@ -1,0 +1,22 @@
+.footer {
+    align-items: center;
+    background-color: grey;
+    justify-content: center;
+    font-family: 'Open Sans', sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+
+.foot {
+    color: white;
+    padding: 15px;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10px;
+}
+
+.footerIcon {
+    margin-right: 10px;
+}
